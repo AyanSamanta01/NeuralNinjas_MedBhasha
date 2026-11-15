@@ -1,0 +1,13 @@
+{
+  "ner_metrics": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_micro": 1.0,
+    "f1_macro": 1.0
+  },
+  "clustering_metrics": {
+    "silhouette_score": 0.2908894855855681,
+    "davies_bouldin_index": 1.6362782134758826,
+    "n_clusters": 15
+  }
+}
