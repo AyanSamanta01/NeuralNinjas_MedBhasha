@@ -1,0 +1,15 @@
+{
+  "corpus": {
+    "deduplicated_notes": 280,
+    "total_tokens": 14631,
+    "test_notes": 1691
+  },
+  "clustering": {
+    "n_clusters": 12,
+    "silhouette_score": 0.1677968977199448,
+    "davies_bouldin_index": 2.1281011593264862
+  },
+  "ner": {
+    "total_test_entities_extracted": 46362
+  }
+}
