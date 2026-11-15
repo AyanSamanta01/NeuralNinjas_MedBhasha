@@ -421,3 +421,4 @@ with open("predictions/metrics_summary.json", "w", encoding="utf-8") as f:
     json.dump(metrics_summary, f, indent=2)
 
 print("\nOfficial Round 2 pipeline execution completed with 100% compliance!")
+

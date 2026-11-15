@@ -271,3 +271,4 @@ if __name__ == "__main__":
         print(f"\n[অনুসন্ধান প্রশ্ন (Query)]: {q}")
         ans, docs = rag.answer_query(q)
         print(ans)
+
