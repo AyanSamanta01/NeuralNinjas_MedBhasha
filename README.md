@@ -1,9 +1,9 @@
-# MedBhasha: Clinical NLP Pipeline for Bengali Medical Text
+# NeuralNinjas_MedBhasha: Clinical NLP Pipeline for Bengali Medical Text
 ### COMSYS Hackathon-8 — Round 2: Modeling (NER, Clustering & Grounded RAG)
 **Team Name:** Neural Ninjas  
 **Track:** MedBhasha Clinical NLP Track  
 **Submission Archive:** `NeuralNinjas_MedBhasha.zip`  
-**GitHub Repository:** [https://github.com/ajstyles004/COMSYS](https://github.com/ajstyles004/COMSYS)
+**GitHub Repository:** [https://github.com/ajstyles004/NeuralNinjas_MedBhasha](https://github.com/ajstyles004/NeuralNinjas_MedBhasha)
 
 ---
 
@@ -30,7 +30,7 @@ This repository contains the complete, reproducible end-to-end clinical NLP mode
 The repository conforms strictly to the official MedBhasha Round 2 layout:
 
 ```
-COMSYS/
+NeuralNinjas_MedBhasha/
 ├── README.md                            ← Comprehensive repository documentation
 ├── notebooks/
 │   └── final_notebook.ipynb             ← Single runnable notebook for all 3 stages
@@ -92,8 +92,8 @@ All annotations and predictions adhere to the MedBhasha schema:
 
 ### 1. Environment Setup
 ```bash
-git clone https://github.com/ajstyles004/COMSYS.git
-cd COMSYS
+git clone https://github.com/ajstyles004/NeuralNinjas_MedBhasha.git
+cd NeuralNinjas_MedBhasha
 pip install -r requirements.txt
 ```
 
